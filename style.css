@@ -1,13 +1,13 @@
 h1 {
-    font-family: Cascadia Code;
+    font-family: Times New Roman;
     color: #4b0082;
     font-size: 45px;
     text-align: center;
 }
 
 h2 {
-    font-family: Cascadia Code;
-    color: blueviolet;
+    font-family: Times New Roman;
+    color: #9400D3;
     font-size: 30px;
 }
 
@@ -16,19 +16,20 @@ body {
 }
 
 p {
-    font-family: Cascadia Code;
+    font-family: Times New Roman;
     color: #FF0000;
     font-size: 20px;
 }
 
 a {
-    font-family: Cascadia Code;
+    font-family: Times New Romane;
     color: #00FF00;
     font-size: 20px;
 }
 
 li {
-    font-family: Cascadia Code;
+    font-family: Times New Roman;
     color: #800000;
     font-size: 20px;
+
 }
