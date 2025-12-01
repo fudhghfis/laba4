@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: #FF4500;
+    background-color: #FF4500;
 }
 
 .sidebar {
@@ -67,6 +67,7 @@ h3 {
     text-align: center;
 }
 h1 {
-    font-color: #483D8B;
+    style-color: #483D8B;
 }
+
 
